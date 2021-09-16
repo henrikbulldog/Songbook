@@ -1,0 +1,47 @@
+{title: Harvest Moon}
+{subtitle: Niel Young}
+{define: Em7 frets 2 2 0 0 3 0}
+{define: D frets 0 x 0 2 3 2}
+{define: G base-fret 3 frets 3 x 0 0 1 0}
+{define: A7sus4 frets 2 2 0 0 0 0}
+{define: A7 frets x 0 2 0 2 0}
+
+{comment: Tuning: D A D G B E}
+
+{comment: Intro (4 times)}
+
+[Em7]Come a little bit closer, Hear what I have to [D]say    (Fill x 2)
+[Em7]Just like children sleepin' We could dream this night a-[D]way.    (Fill x 2)
+[G]But there's a full moon rising, Let's go dancing in the [D]light.    (Intro x 2)
+[G]We know where the music's playing, Lets go out and feel the [D]night.    (Intro x 2)
+
+{start_of_chorus}
+[A7sus4]Because I'm still in love with [A7]you, I wanna see you dance a-[A7sus4]gain,
+Because I'm still in love with [A7]you, On this harvest [D]moon.    (Fill x 2)
+{end_of_chorus}
+
+[Em7]When we were strangers, I watched you from [D]afar.     (Fill x 2)
+[Em7]When we were lovers, I loved you with all my [D]heart.    (Fill x 2)
+[G]But now it's gettin' late, And the moon is climbin' [D]high.    (Intro x 2)
+[G]I want to celebrate, See it shinin' in your [D]eye.    (Intro x 2)
+
+{comment: Chorus}
+
+{start_of_tab: Intro}
+E|---------------------9---9---9---9---9---|    
+B|------10--12--12-----10--10--10--10--10--|    
+G|------11--11--11-----11--11--11--11--11--|    
+D|------0---0---0------0---0---0---0---0---|    
+A|--0---------------0----------------------|    
+D|--0---------------0----------------------|  
+{end_of_tab}
+
+{start_of_tab: Fill}
+E|-----2--2--2--2-----2-----2---0--0--2--2--|   
+B|-----3--3--3--3-----3-----2---2--2--3--3--|   
+G|-----2--2--2--2-----2-----2---2--2--2--2--|   
+D|-----0--0--0--0-----0-----0---2--2--4--4--|   
+A|--0---------------------------0--0--------|   
+D|--0---------------------------------------| 
+{end_of_tab}
+

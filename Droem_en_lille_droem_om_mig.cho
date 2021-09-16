@@ -1,0 +1,40 @@
+{title: Drøm en lille drøm om mig}
+{subtitle: Gitte Hænning}
+
+{columns: 2}
+{define: Asus2 frets x 0 2 2 0 0}
+{define: F#m frets 2 x x 2 2 0}
+{define: Bm7 frets x 2 0 2 3 0}
+
+Intro: | C | Adim7 | G# | G |
+
+[C]Hør [Adim7]aftenblæsten [G#]nynn[G]er
+[C]Se [Adim7]stjernehimlen [Asus2]natten begynder
+[Dm]Se bag en sky er [Adim7]månen på vej
+[C]Drøm en lille [G#]drøm [G]om [C]mig [Adim7] [G#] [G]
+
+[C]Se [Adim7]stjerneskud der [G#]fald[G]er
+[C]Hør [Adim7]nattergalen [Asus2]lokker og kalder
+[Dm]Jeg sender mine [Adim7]tanker til dig
+[C]Drøm en lille [G#]drøm [G]om [C]mig [E7]
+
+{start_of_chorus}
+[A]Du [F#m]lever et [Bm7]sted i det [E7]fjerne
+[A]Gemt [F#m]bort i en [Bm7]by [E7]
+[A]Jeg [F#m]ser på en [Bm7]faldende [E7]stjerne
+[A]Ses vi på [G#]ny [G] [C] [Adim7] [G#] [G]
+{end_of_chorus}
+
+{column_break}
+
+[C]Jeg [Adim7]ved min dag vil [G#]komm[G]e
+[C]Drøm [Adim7]sødt til nattens [Asus2]timer er omme
+[Dm]Sov mens en dejlig [Adim7]dag er på vej
+[C]Drøm en lille [G#]drøm [G]om [C]mig [E7]
+
+{comment: Chorus}
+
+[C]Jeg [Adim7]ved min dag vil [G#]komm[G]e
+[C]Drøm [Adim7]sødt til nattens [Asus2]timer er omme
+[Dm]Sov mens en dejlig [Adim7]dag er på vej
+[C]Drøm en lille [G#]drøm [G]om [C6]mig
