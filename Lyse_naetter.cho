@@ -1,36 +1,35 @@
 {title: Lyse nætter}
 {subtitle: Alberte}
+{define: E base-fret 0 frets 0 2 4 1 0 0}
+{define: A base-fret 0 frets x 0 2 2 0 0}
+{define: B base-fret 0 frets x 2 4 4 0 0}
+{define: F# base-fret 0 frets x 2 2 4 0 0}
+{define: C#m7 base-fret 4 frets x 0 2 0 1 0}
 
-{columns: 2}
-{comment: Capo: 4th fret(or 3rd if it's the version with Benjamin Koppel)}
+Nu kommer fuglene [E]igen
+og lyset vælter pludselig [A]ind
+Det kommer gennem alle [B]sprækker
+lyse [C#m7]nætter er til[F#]bage. [E]
 
-Intro: | C | C | Fmaj7 | Fmaj7 | G | Am7 | Fmaj7 | C
-
-Nu kommer fuglene [C]igen
-og lyset vælter pludselig [Fmaj7]ind
-Det kommer gennem alle [G]sprækker
-lyse [Am7]nætter er til[Fmaj7]bage. [C]
-
-Alt, hvad der rørte sig blev [C]gemt
-da du var rejst var det så [Fmaj7]nemt
-Men hjertet ved godt, hvad det [G]ønsker sig
-at [Am7]pynte sig for dig
+Alt, hvad der rørte sig blev [E]gemt
+da du var rejst var det så [A]nemt
+Men hjertet ved godt, hvad det [B]ønsker sig
+at [C#m7]pynte sig for [F#]dig
  
-Du er [Fmaj7]tilbage, du er hos [C]mig [Am7]
-Du er [Fmaj7]tilbage, med varme dage
-Du er hos [C]mig
+Du er [A]tilbage, du er hos [E]mig [C#m7]
+Du er [F#]tilbage, med varme [A]dage
+Du er hos [E]mig
 
-{column_break} 
-Nu kommer lydene [C]igen
-og verden vælter pludselig [Fmaj7]ind
-med parasoller og [G]sandaler
-bølger [Am7]maler alt i [Fmaj7]sand [C]
+Nu kommer lydene [E]igen
+og verden vælter pludselig [A]ind
+med parasoller og [B]sandaler
+bølger [C#m7]maler alt i [F#]sand [E]
                         
-Jeg havde huset fuld af [C]vind
-og nye frugter båret [Fmaj7]ind
-Men hjertet ved godt, hvad det [G]ønsker sig
-at [Am7]pynte sig for dig
+Jeg havde huset fuld af [E]vind
+og nye frugter båret [A]ind
+Men hjertet ved godt, hvad det [B]ønsker sig
+at [C#m7]pynte sig for [F#]dig
  
-Du er [Fmaj7]tilbage, du er hos [C]mig [Am7]
-Du er [Fmaj7]tilbage, med varme dage
-Du er hos [C]mig
+Du er [A]tilbage, du er hos [E]mig [C#m7]
+Du er [F#]tilbage, med varme [A]dage
+Du er hos [E]mig
