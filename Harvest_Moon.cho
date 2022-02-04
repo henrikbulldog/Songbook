@@ -1,14 +1,13 @@
 {title: Harvest Moon}
-{subtitle: Niel Young}
+{composer: Niel Young}
+{subtitle: %{composer}, Open D Tuning: D A D G B E}
 {define: Em7 frets 2 2 0 0 3 0}
 {define: D frets 0 x 0 2 3 2}
 {define: G base-fret 3 frets 3 x 0 0 1 0}
 {define: A7sus4 frets 2 2 0 0 0 0}
 {define: A7 frets x 0 2 0 2 0}
 
-{comment: Tuning: D A D G B E}
-
-{comment: Intro (4 times)}
+Intro x 4
 
 [Em7]Come a little bit closer, Hear what I have to [D]say    (Fill x 2)
 [Em7]Just like children sleepin' We could dream this night a-[D]way.    (Fill x 2)
@@ -44,4 +43,3 @@ D|-----0--0--0--0-----0-----0---2--2--4--4--|
 A|--0---------------------------0--0--------|   
 D|--0---------------------------------------| 
 {end_of_tab}
-

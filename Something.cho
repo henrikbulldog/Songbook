@@ -1,13 +1,13 @@
 {title: Something}
-{subtitle: George Harrison}
-
+{composer: George Harrison}
+{capo: 2}
+{subtitle: %{composer}, Capo %{capo}th fret}
 {define: G#+ frets x 0 2 1 1 0}
 {define: C/G frets x 0 2 0 1 0}
 {define: F#m/E frets 0 4 4 2 2 x}
 {define: F/E frets 0 3 3 2 1 1}
 {define: Am7 frets x 0 x 0 1 x}
 {define: G/B frets x 2 x 0 3 x}
-
 [F]  [Bb]  [G]  Som[C]ething in the way she [Cmaj7]moves
 [C7]Attracts me like no other [F]lover [F]  [F/E]
 Som[D]ething in the [D7]way [G]she woos me [Am7]  [G/B]

@@ -1,10 +1,8 @@
 {title: Petty Crimes}
-{subtitle: Henrik Thomsen}
-
+{composer: Henrik Thomsen}
+{subtitle: %{composer}}
 {define Bm11 frets x 2 0 2 3 0}
 {define Em7(g) frets x x 2 0 3 3}
-
-
 It's not o[Em7]kay.  [Bm11]
 It's a losing [Em7]game.  [Bm11]
 You can't play that [Em7]way,
@@ -28,4 +26,5 @@ The child in your [Em7]eyes,  [Bm11]
 slowly [Em7]dies.  [Bm11]
 
 {chorus}
+
 {chorus}

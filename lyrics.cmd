@@ -1,0 +1,1 @@
+chordpro %1 --lyrics-only --define=diagrams.show="none" --define=pdf.chorus.recall.quote="true" --output=%~n1.lyrics.pdf

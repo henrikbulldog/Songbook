@@ -1,11 +1,11 @@
 {title: Lyse nætter}
-{subtitle: Alberte}
+{composer: Alberte}
+{subtitle: %{composer}}
 {define: E base-fret 0 frets 0 2 4 1 0 0}
 {define: A base-fret 0 frets x 0 2 2 0 0}
 {define: B base-fret 0 frets x 2 4 4 0 0}
 {define: F# base-fret 0 frets x 2 2 4 0 0}
 {define: C#m7 base-fret 4 frets x 0 2 0 1 0}
-
 Nu kommer fuglene [E]igen
 og lyset vælter pludselig [A]ind
 Det kommer gennem alle [B]sprækker

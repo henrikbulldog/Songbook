@@ -1,12 +1,13 @@
 {title: Drøm en lille drøm om mig}
-{subtitle: Gitte Hænning}
-
+{capo: 2}
+{composer: Fabian Andre and Wilbur Schwandt}
+{lyricist: Gitte Hænning}
+{subtitle: %{composer}, lyrics by %{lyricist}, Capo %{capo}th fret}
 {columns: 2}
 {define: Asus2 frets x 0 2 2 0 0}
 {define: F#m frets 2 x x 2 2 0}
 {define: Bm7 frets x 2 0 2 3 0}
-
-Intro: | C | Adim7 | G# | G |
+{comment: Intro x2}
 
 [C]Hør [Adim7]aftenblæsten [G#]nynn[G]er
 [C]Se [Adim7]stjernehimlen [Asus2]natten begynder
@@ -38,3 +39,13 @@ Intro: | C | Adim7 | G# | G |
 [C]Drøm [Adim7]sødt til nattens [Asus2]timer er omme
 [Dm]Sov mens en dejlig [Adim7]dag er på vej
 [C]Drøm en lille [G#]drøm [G]om [C6]mig
+
+{start_of_tab: Intro}
+    C     Adim7     G#    G
+e|-----------------------------|
+B|------1-------1--------0--0--|
+G|------------2---------3---2--|
+D|----2---0-1---------4-----3--|
+A|--3--------------------------|
+E|----------------0-4-----3----|
+{end_of_tab}

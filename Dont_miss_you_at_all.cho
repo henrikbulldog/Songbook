@@ -1,6 +1,7 @@
 {title: Don't Miss You At All}
-{subtitle: Norah Jonas / Duke Ellington}
-
+{composer: Duke Ellington}
+{lyricist: Norah Jonas}
+{subtitle: %{composer}, lyrics by %{lyricist}}
 {define: C7#5(b9) base-fret 0 frets x 3 2 3 2 4 fingers 0 2 1 3 1 4}
 {define: F(add9) base-fret 6 frets x x 3 2 1 3}
 {define: Gadd9 base-fret 0 frets 3 x x 2 0 3}
@@ -11,7 +12,6 @@
 {define: Amaj9 base-fret 0 frets x 0 2 4 2 4}
 {define: C7(#9) base-fret 0 frets x 3 2 3 4 x}
 {define: C#m7 base-fret 4 frets x 1 3 1 2 1 fingers 0 1 3 1 2 1}
-
 [C7#5(b9)]  As I [F(add9)]sit and [Am]watch the [Dm7]snow
 [Gadd9]Fal - lin' [Gm7(add4)]down
 I don't [Bbm/C]miss you at [Fmaj7]all  [C7#5(b9)]
@@ -25,16 +25,17 @@ So [Gm7]if [Am7]you [Bbm7]ne - [Bb7]ver [Bm7b5]come [E7(#9)]to [Amaj9]me
 Out my [F(add9)]window [Am]I see [Dm7]lights [G7]going [Gm7(add4)]dark
 Your dark [Bbm/C]eyes don't haunt [Fmaj7]me
 
+{start_of_chorus}
 And [Gm7]then [Am7]I [Bbm7]won - [Bb7]der [Bm7b5]who [E7(#9)]I [Amaj9]am
 [Amaj7]With - [Bm7]out [C#m7]the [Dm7]warm [D7]touch [G9]of your [Gm7(add4)]hand  [C7#5(b9)]
+{end_of_chorus}
 
-Verse instrumental
+{comment: Verse instrumental}
 
-And then I wonder ...
+{chorus}
 
 As I [F(add9)]sit and [Am]watch the [Dm7]snow
 [G7]Fal - lin' [Gm7(add4)]down
-
 I don't [Bbm/C]miss you at [Fmaj7]all
 I don't [Bbm/C]miss you at [Fmaj7]all
 I don't [Bbm/C]miss you at [F6]all

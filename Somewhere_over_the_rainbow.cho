@@ -1,6 +1,9 @@
 {title: Somewhere Over the Rainbow}
-{subtitle: Eric Clapton}
-
+{composer: Harold Arlen}
+{lyricist: Yip Harburg}
+{artist: Eric Clapton}
+{capo: 4}
+{subtitle: %{composer}, lyrics by %{lyricist}, arranged by %{artist}, capo on %{capo}th fret}
 {define: E base-fret 1 frets 0 2 4 1 0 0}
 {define: Cm7 base-fret 1 frets x 4 2 4 0 0}
 {define: G#m7 base-fret 2 frets 4 x x 4 4 x}
@@ -10,8 +13,10 @@
 {define: D9 base-fret 1 frets x x 0 2 1 0}
 {define: B7 base-fret 1 frets x 2 1 2 0 0}
 {define: Eb7 base-fret 1 frets x 0 1 0 2 x}
-
-Capo 4th, intro: ||: E | C#m7 | F#m7/A  | B7  :||
+{define: Eb9 base-fret 5 frets x 1 0 1 1 1}
+{start_of_grid: Intro}
+|| E . C#m7 . | F#m7/A . B7 . ||
+{end_of_grid}
 
 [E]Some - [C#m7]where [G#m7]over the [Bm7]rain [E7]bow, [Amaj7]way [Eb7]up [G#m7]high [C#9]
 [F#m7/A]There's [D9]a  [G#m7]land that I've [C#9]heard of [F#m7]once in a [B7]lulla[E]by [C#m7] [F#m7/A] [B7]
@@ -34,4 +39,7 @@ That's [G#m7]where [C#9]you'll [F#m7]find [B7]me
 If [E]happy little bluebirds fly [F#m7]beyond the rainbow
 [B7]Why, oh, why can't [E]I?
  
-[E] [C#m7] [F#m7/A] [D9] [E]
+{start_of_grid: Outro}
+|| E . C#m7 . | F#m7/A . B7 . |
+| E . C#m7 . | F#m7/A . D9 . | E . . . ||
+{end_of_grid}
