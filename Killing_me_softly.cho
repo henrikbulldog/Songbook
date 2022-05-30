@@ -1,0 +1,60 @@
+{title: Killing me softly}
+{composer: Charles Fox}
+{subtitle: %{composer}}
+{columns: 2}
+{define: Am base-fret 3 frets 3 x 3 3 1 x}
+{define: Am7 base-fret 3 frets 3 x x 3 3 1}
+{define: D7 base-fret 3 frets x 3 2 3 1 x}
+{define: D9 base-fret 5 frets x 1 0 1 1 x}
+{define: Gmaj7 base-fret 3 frets 1 x 2 2 1 x}
+{define: Cadd2 base-fret 0 frets x 3 2 0 3 x}
+{define: Em7 base-fret 5 frets x 3 1 3 4 x}
+{define: E7sus4 base-fret 0 frets 0 x 0 1 0 x}
+{define: A7 base-fret 5 frets 1 x 1 2 3 x}
+{define: Fm7 base-fret 0 frets 1 x 2 2 1 x}
+
+{start_of_chorus}
+[Em7]Strumming my pain with his [Am]fingers
+[D9]Singing my life with his [Gmaj7]words
+[Em7]Killing me softly with [A7]his song
+[D]Killing me softly with [C]his song
+Telling my [Gmaj7]whole life with [Cadd2]his words
+Killing me [Fm7]softly with his [E7sus4]song [E]
+{end_of_chorus}
+
+[Am]I heard he [D7]sang a good song,
+[Gmaj7]I heard he [Cadd2]had a style
+[Am]And so I [D7]came to see him,
+[Em7]To listen for a while
+[Am7]And there he [D]was this young boy,
+[Gmaj7]A stranger [B7]to my eyes
+
+{chorus}
+
+[Am]I felt all [D7]flushed with fever, 
+[Gmaj7]Embarrassed [Cadd2]by the crowd
+[Am]I felt he [D7]found my letters,
+[Em7]And read each one out loud
+[Am7]I prayed that [D]he would finish,
+[Gmaj7]But he just [B7]kept right on
+
+{chorus}
+
+{column_break}
+
+[Am]He sang as [D7]if he knew me,
+[Gmaj7]In all my [Cadd2]dark despair
+[Am]And then he [D7]looked right through me, 
+As [Em7]if I wasn't there
+[Am7]And he just [D]kept on singing,
+[Em7]Singing [B7]clear and strong
+
+{chorus}
+{chorus}
+
+[Em7]He was strumming my pain [Am]
+Yeah, he was [D9]singing my life [Gmaj7]
+[Em7]Killing me softly with [A7]his song
+[D]Killing me softly with [C]his song
+Telling my [Gmaj7]whole life with [Cadd2]his words
+Killing me [Fm7]softly with his [E7sus4]song [E]
