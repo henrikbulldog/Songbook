@@ -1,0 +1,59 @@
+{title: Just the Two of Us}
+{composer:  Grover Washington Jr.}
+{subtitle: %{composer}}
+{define: Gmaj7 frets 3 x 4 4 3 x}
+{define: F#7 frets 2 4 2 3 2 2}
+{define: Bm7 base-fret 7 frets 1 x 1 1 1 x}
+{define: A#m7 base-fret 6 frets 1 x 1 1 1 x}
+{define: Am7 base-fret 5 frets 1 x 1 1 1 x}
+{define: Gm7 frets 3 x 3 3 3 x}
+{define: E9 base-fret 6 frets x 2 1 2 2 2}
+{define: D9 base-fret 4 frets x 2 1 2 2 2}
+{define: C9 frets x 3 2 3 3 3}
+{define: G9 base-fret 3 frets x x 3 2 1 3}
+
+{start_of_grid: Intro}
+|| Gmaj7 . F#7 . | Bm7 . Am7  D9 | Gmaj7 . F#7 . | Bm7 . . .  ||
+{end_of_grid} 
+
+[Gmaj7]I see the Crys[F#7]tal Raindrops [Bm7]fall
+And the [Am7]beauty [D9]of it [Gmaj7]all
+when the [F#7]sun comes shining [Bm7]through  [Am7] [D9]
+[Gmaj7]To make those [F#7]rainbows in my [Bm7]mind
+When I [Am7]think of [D9]you some [Gmaj7]time
+And I want to [F#7]spend some time with [Bm7]you 
+ 
+{start_of_chorus}
+Just the [Gmaj7]two of [F#7]us
+We can [Bm7]make it [A#m7]if we [Am7]try
+[D9]Just [Gmaj7]the two of us  [F#7]    (Just the [Bm7]two of us)
+
+Just the [Gmaj7]two of [F#7]us
+Building [Bm7]castles [A#m7]in the [Am7]sky
+[D9]Just [Gmaj7]the two of us  [F#7]
+You and [Bm7]I
+{end_of_chorus} 
+ 
+[Gmaj7]We look for [F#7]love, no time for [Bm7]tears
+Wasted [Am7]waters's [D9]all that [Gmaj7]is
+And it don't [F#7]make no flowers [Bm7]grow  [Am7] [D9]
+Good [Gmaj7]things might [F#7]come to those who [Bm7]wait
+Not to [Am7]those who [D9]wait to [Gmaj7]late
+We got to [F#7]go for all we [Bm7]know
+
+{start_of_grid: Bridge} 
+|| Bm7 . E9 . | Am7 . D9 . | Gm7 . C9 . | G9 . . . ||
+{end_of_grid: Bridge} 
+
+{new_page}
+ 
+[Gmaj7]I hear the crys[F#7]tal raindrops [Bm7]fall
+On the [Am7]window [D9]down the [Gmaj7]hall
+And it be[F#7]comes the morning [Bm7]dew  [Am7] [D9]
+[Gmaj7]Darling, [F#7]when the morning [Bm7]comes
+And I [Am7]see the [D9]morning [Gmaj7]sun
+I want to [F#7]be the one with [Bm7]you
+
+{Chorus} 
+ 
+Repeat Chorus until fade

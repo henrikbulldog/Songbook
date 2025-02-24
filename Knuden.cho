@@ -2,49 +2,40 @@
 {composer: Shubidua}
 {subtitle: %{composer}}
 {columns: 2}
-{define: F#m13 base-fret 0 frets 2 x 2 3 4 x}
+{define: F#13 base-fret 0 frets 2 x 2 3 4 x}
 {define: F#m7 base-fret 0 frets 2 x 2 2 x x}
 {define: F#m6 base-fret 0 frets 2 x 1 2 2 x}
 {define: G#m7 base-fret 0 frets 4 x 4 4 x x}
-{define: Bm7 base-fret 0 frets 7 x 7 7 x x}
-{define: B7 base-fret 0 frets 7 x 7 6 x x}
-{define: Bm11 base-fret 0 frets 7 x 7 7 5 x}
-{define: E7 base-fret 0 frets x 7 6 7 5 x}
-
-{start_of_grid: intro}
-|| E . F#m7 . | G#m7 . E . |||
-{end_of_grid}
-
+{define: Bm7 base-fret 5 frets 2 x 2 2 x x}
+{define: B7 base-fret 5 frets 2 x 2 3 x x}
+{define: Bm11 base-fret 5 frets 2 x 2 2 0 x}
 
 [E][F#m7]Jeg er en [G#m7]kedelig [Bm11]mand. [E7]
 [Amaj7]Selvom man [B7]gør hvad man [E]kan. [F#m7] [G#m7] [Bm7]
 [C#m7]Og når jeg holder [F#13]fester.
 [F#m6]Så kommer der [Am7]ingen gæster.
-[E]Og [F#m7]hvad skal man [G#m7]gør[F#m7]e ved [E]det? [F#m7] [E]
+[E]Og [F#m7]hvad skal man [G#m7]gø - [F#m7]re ved [E]det? [F#m7] [E]
 
 [E][F#m7]Jeg bor til [G#m7]leje hos [Bm11]mor. (Hvad [E7]er'et han siger)
-[Amj7]Jeg bor til [B7]leje hos [E]mor. [F#m7] [G#m7] [Bm7]
+[Amaj7]Jeg bor til [B7]leje hos [E]mor. [F#m7] [G#m7] [Bm7]
 [C#m7]Hun har masser af [F#13]rynker.
 [F#m6]Det knirker [Am7]når hun synker.
-[E]og [F#m7]hvad skal man [G#m7]gør[F#m7]e ved [E]det? [F#m7] [E]
+[E]og [F#m7]hvad skal man [G#m7]gø - [F#m7]re ved [E]det? [F#m7] [E]
+{column_break}
 
 {start_of_chorus}
 Man sku se [A]ud som.[E][F#m][B] 
 Ham der Rock [A]Hudson. [E][F#m][B] 
 Men [A]jeg hedder [B]Knud. 
 Er [G#m]lavet af [C#m]Gud. 
-Så [F#]jeg ser al[B]minde[E]lig [A]ud.[E][B]
+Så [F#]jeg ser al[B]mindelig [E]ud. [F#m7] [G#m7] [Bm7] [E] [F#m7] [E]
 {end_of_chorus}
 
-{chorus}
-
-{column_break}
-
-[E][F#m7]Jeg er en [G#m7]kedelig [BM11]Knud. [E7]
+[E][F#m7]Jeg er en [G#m7]kedelig [Bm11]Knud. [E7]
 [Amaj7]Når jeg kommer [B7]ind - går blomsterne [E]ud. [F#m7] [G#m7] [Bm7]
 [C#m]Jeg har fundet en [F#13]pige.
 [F#m6]Vi er lige [Am7]kedelige.
-[E]og [F#m7]hvad skal man [G#m7]gør[F#m7]e ved [E]det? [F#m7] [E]
+[E]og [F#m7]hvad skal man [G#m7]gø - [F#m7]re ved [E]det? [F#m7] [E]
 
 {chorus}
 
